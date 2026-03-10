@@ -123,7 +123,7 @@ const HTML = () => `<!DOCTYPE html>
   <div class="card">
     <div class="subject-badge">☁️ Cloud Computing</div>
     <h1>Group 1</h1>
-    <p class="tagline">Hello from AWS 🚀 — Port 3000</p>
+    <p class="tagline">Hello from AWS and Group 1 🚀 — Port 3000</p>
     <div class="divider"></div>
     <div class="group-label">Members</div>
     <div class="members">
