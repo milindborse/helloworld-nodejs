@@ -19,8 +19,10 @@ jobs:
           host: ${{ secrets.EC2_HOST }}
           username: ec2-user
           key: ${{ secrets.EC2_SSH_KEY }}
+          port: 22
           script: |
-            cd ~/helloworld-nodejs
+            cd /home/ec2-user/helloworld-nodejs
             git pull origin main
             npm install
-            pm2 restart all
+            pm2 restart app
+            pm2 save
