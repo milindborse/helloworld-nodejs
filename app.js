@@ -145,7 +145,7 @@ const HTML = () => `<!DOCTYPE html>
     <div class="hero">
       <div class="badge">☁️ Cloud Computing · Group 1</div>
       <h1>AWS Node.js Deploy</h1>
-      <p class="sub">Deploy a Node.js application on AWS infrastructure with a <strong>secure</strong> and <strong>scalable</strong> setup — from EC2 provisioning to CI/CD automation.</p>
+      <p class="sub">*Deploy a Node.js application on AWS infrastructure with a <strong>secure</strong> and <strong>scalable</strong> setup from EC2 provisioning to CI/CD automation.*</p>
       <div class="pills">
         <span class="pill blue">EC2 Instance</span>
         <span class="pill violet">IAM Security</span>
