@@ -43,7 +43,7 @@ const HTML = () => `<!DOCTYPE html>
       margin-bottom: 28px;
     }
 
-    h1 { font-size: 3rem; font-weight: 900; color: #3b82f6; margin-bottom: 12px; letter-spacing: -1px; }
+    h1 { font-size: 3rem; font-weight: 900; color: #c0fdff; margin-bottom: 12px; letter-spacing: -1px; }
 
     .sub {
       font-size: 1rem;
