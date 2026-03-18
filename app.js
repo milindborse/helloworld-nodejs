@@ -43,7 +43,7 @@ const HTML = () => `<!DOCTYPE html>
       margin-bottom: 28px;
     }
 
-    h1 { font-size: 3rem; font-weight: 900; color: #00d068; margin-bottom: 12px; letter-spacing: -1px; }
+    h1 { font-size: 3rem; font-weight: 900; color: #d0005e; margin-bottom: 12px; letter-spacing: -1px; }
 
     .sub {
       font-size: 1rem;
@@ -144,7 +144,7 @@ const HTML = () => `<!DOCTYPE html>
   <div class="wrap">
     <div class="hero">
       <div class="badge">☁️ Cloud Computing · Group 1</div>
-      <h1>AWS Node.js Deploy Demo in class</h1>
+      <h1>Scalable Node.js Deployment on AWS – Live Demo</h1>
       <p class="sub">*Deploy a Node.js application on AWS infrastructure with a <strong>secure</strong> and <strong>scalable</strong> setup from EC2 provisioning to CI/CD automation.*</p>
       <div class="pills">
         <span class="pill blue">EC2 Instance</span>
